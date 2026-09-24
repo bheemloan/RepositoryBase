@@ -1,5 +1,5 @@
 import Image from "next/image";
-
+import Dashboard from "../components/DashBoard";
 export default function Home() {
-  return <h1>Welcome TO the BheemLoan</h1>;
+  return <Dashboard />;
 }
