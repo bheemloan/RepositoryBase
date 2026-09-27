@@ -82,6 +82,12 @@ export default function Navbar() {
           <Link href="/blog" className="hover:text-sky-400 transition-colors">
             Blog
           </Link>
+          <Link
+            href="/Contact"
+            className="hover:text-sky-400 transition-colors"
+          >
+            Contact Us
+          </Link>
         </div>
 
         {/* Desktop Actions */}
