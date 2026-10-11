@@ -64,7 +64,7 @@ export default function PrivacyPolicyPage() {
             Privacy Policy
           </h1>
           <p className="text-slate-300 text-sm sm:text-base max-w-2xl mx-auto leading-relaxed">
-            Your privacy matters to us. This policy explains how BheemLoan
+            Your privacy matters to us. This policy explains how KeshvaCredit
             collects, uses, and protects your personal information.
           </p>
           <p className="text-[11px] text-slate-400 mt-3">
@@ -112,8 +112,8 @@ export default function PrivacyPolicyPage() {
               of such information; use, storage, and disclosure of information
               collected; rights and choices available to You with respect to the
               information collected; and how BValue Services Private Limited
-              (hereinafter "BheemLoan", "We", "Us") including online platform(s)
-              www.bheemloan.com and "BheemLoan" (Mobile Application)
+              (hereinafter "KeshvaCredit", "We", "Us") including online platform(s)
+              www.KeshvaCredit.com and "KeshvaCredit" (Mobile Application)
               (Collectively "Platform").
             </p>
 
@@ -182,7 +182,7 @@ export default function PrivacyPolicyPage() {
               information due to transmission errors, unauthorized third-party
               access to our Platform and databases, or other acts of third
               parties, or acts or omissions beyond our reasonable control and
-              You shall not be entitled to hold BheemLoan responsible for any
+              You shall not be entitled to hold KeshvaCredit responsible for any
               breach of security.
             </p>
 
@@ -206,7 +206,7 @@ export default function PrivacyPolicyPage() {
                 number, address with PIN Code.
               </li>
               <li className="leading-relaxed pl-1">
-                BheemLoan is a Digital Fintech Marketplace that has partnered
+                KeshvaCredit is a Digital Fintech Marketplace that has partnered
                 with RBI-approved lending partners listed on our{" "}
                 <Link
                   href="/our-lenders"
@@ -221,7 +221,7 @@ export default function PrivacyPolicyPage() {
                 >
                   iOS
                 </Link>{" "}
-                applications to facilitate their lending business. BheemLoan
+                applications to facilitate their lending business. KeshvaCredit
                 helps its users to connect with these RBI-approved lenders
                 thereby enabling You to avail products offered by the Lending
                 Partners such as{" "}
@@ -439,7 +439,7 @@ export default function PrivacyPolicyPage() {
                 <strong>Marketing and Promotional Purpose:</strong> At the time
                 of registering on the Platform, Users have to provide their
                 mobile number and email address for OTP. Hence, by registering
-                you authorize BheemLoan to send texts and email alerts to you
+                you authorize KeshvaCredit to send texts and email alerts to you
                 with your login details and any other service requirements,
                 including promotional mails and SMS, even if you have registered
                 yourself under DND or DNC or NCPR services. Your authorization
@@ -447,10 +447,10 @@ export default function PrivacyPolicyPage() {
                 unless you withdraw your consent. If You wish to withdraw your
                 consent, please feel free to reach out to{" "}
                 <a
-                  href="mailto:info@bheemloan.com"
+                  href="mailto:info@KeshvaCredit.com"
                   className="text-blue-600 underline hover:text-blue-800"
                 >
-                  info@bheemloan.com
+                  info@KeshvaCredit.com
                 </a>{" "}
                 requesting the same.
               </li>
@@ -487,17 +487,17 @@ export default function PrivacyPolicyPage() {
               5. RIGHT TO WITHDRAWAL OF CONSENT
             </h2>
             <p className="mb-4 text-sm text-slate-600 leading-relaxed">
-              BheemLoan respects Your rights over your Personal Information. If
+              KeshvaCredit respects Your rights over your Personal Information. If
               during any time, you feel that we do not require the retention of
               your personal information or if you ask us to delete or remove
               your personal information, we shall do the same without asking any
-              further questions. You can unsubscribe from BheemLoan by clicking
+              further questions. You can unsubscribe from KeshvaCredit by clicking
               on the given link:{" "}
               <Link
                 href="/unsubscribe"
                 className="text-blue-600 underline hover:text-blue-800 font-bold"
               >
-                BheemLoan Unsubscribe
+                KeshvaCredit Unsubscribe
               </Link>
             </p>
             <p className="mb-4 text-sm text-slate-600 leading-relaxed">
@@ -522,7 +522,7 @@ export default function PrivacyPolicyPage() {
               6. DATA SECURITY
             </h2>
             <p className="mb-4 text-sm text-slate-600 leading-relaxed">
-              BheemLoan understands the importance of one's personal information
+              KeshvaCredit understands the importance of one's personal information
               and thereby always uses the highest applicable standard to protect
               the information collected from You. We have put in place
               appropriate security measures to deal with any suspected data
@@ -624,10 +624,10 @@ export default function PrivacyPolicyPage() {
               <p className="mt-1.5">
                 <strong>Email:</strong>{" "}
                 <a
-                  href="mailto:nodal.officer@bheemloan.com"
+                  href="mailto:nodal.officer@KeshvaCredit.com"
                   className="text-blue-600 underline hover:text-blue-800"
                 >
-                  nodal.officer@bheemloan.com
+                  nodal.officer@KeshvaCredit.com
                 </a>
               </p>
               <p className="mt-1.5">
@@ -648,7 +648,7 @@ export default function PrivacyPolicyPage() {
             </h2>
             <p className="mb-4 text-sm text-slate-600 leading-relaxed">
               This Privacy Policy is subject to modification and/or change at
-              the sole discretion of BheemLoan. All such modifications shall be
+              the sole discretion of KeshvaCredit. All such modifications shall be
               strictly in line with the RBI requirements and guidelines issued
               from time to time.
             </p>
@@ -676,15 +676,15 @@ export default function PrivacyPolicyPage() {
             </h2>
             <ol className="list-decimal list-inside ml-4 mb-4 space-y-3 text-sm text-slate-600">
               <li className="leading-relaxed pl-1">
-                BheemLoan will periodically inform its users, at least once
+                KeshvaCredit will periodically inform its users, at least once
                 every year, of its rules and regulations, privacy policy or user
                 agreement or any change in this respect; and
               </li>
               <li className="leading-relaxed pl-1">
-                BheemLoan will periodically inform its users, at least once
+                KeshvaCredit will periodically inform its users, at least once
                 every year, that in case of non-compliance by its users with
                 rules and regulations, privacy policy or user agreement,
-                BheemLoan reserves the right to terminate the access or usage
+                KeshvaCredit reserves the right to terminate the access or usage
                 rights of the users to its platform and/ or remove any
                 information on its platform which does not comply with the
                 Information Technology.

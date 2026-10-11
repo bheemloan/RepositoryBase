@@ -40,7 +40,7 @@ export const AppDownloadPopup = () => {
               <div className="min-w-0">
                 <div className="flex items-center gap-2 mb-0.5">
                   <p className="text-sm sm:text-base font-bold truncate">
-                    Get the BheemLoan App
+                    Get the KeshvaCredit App
                   </p>
                   <span className="hidden sm:inline-block bg-yellow-400 text-[#0a1535] text-[10px] font-bold px-2 py-0.5 rounded">
                     NEW

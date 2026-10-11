@@ -12,7 +12,7 @@ export default function AboutPage() {
 
         <div className="space-y-4 text-sm text-slate-600 leading-relaxed">
           <p>
-            <span className="font-bold text-slate-900">BheemLoan</span> is a
+            <span className="font-bold text-slate-900">KeshvaCredit</span> is a
             Digital Fintech Marketplace facilitating loan services for all
             eligible age groups. We make way for quick loan approvals and are
             recognised with one of the highest approval rates in the industry!
@@ -42,7 +42,7 @@ export default function AboutPage() {
             Our Services In Line (What We Do!)
           </h2>
           <p className="text-sm text-slate-600 leading-relaxed">
-            BheemLoan is a Digital Fintech Marketplace. Our range of loan
+            KeshvaCredit is a Digital Fintech Marketplace. Our range of loan
             services caters to various financial purposes, such as medical
             expenses, education, travel, debt consolidation, or starting/growing
             a business.
@@ -140,7 +140,7 @@ export default function AboutPage() {
         <div className="bg-[#031530] text-white rounded-2xl p-8 flex flex-col md:flex-row items-center justify-between gap-6 overflow-hidden relative">
           <div className="space-y-3 z-10">
             <h2 className="text-2xl font-bold">
-              Download the BheemLoan App Now!
+              Download the KeshvaCredit App Now!
             </h2>
             <p className="text-xs text-gray-300">
               One solution to each of your financial needs at your fingertip.
@@ -159,7 +159,7 @@ export default function AboutPage() {
             {/* Online App Feature Graphic */}
             <img
               src="https://images.unsplash.com/photo-1556742049-0a670f4a4591?w=400&auto=format&fit=crop&q=80"
-              alt="BheemLoan App"
+              alt="KeshvaCredit App"
               className="w-48 h-32 object-cover rounded-xl border border-white/20 shadow-lg hidden sm:block"
             />
 
@@ -167,7 +167,7 @@ export default function AboutPage() {
             <div className="bg-white text-slate-900 p-3 rounded-xl text-center">
               <p className="text-xs font-bold mb-1">Scan to Download</p>
               <img
-                src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://bheemloan.com"
+                src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://KeshvaCredit.com"
                 alt="QR Code"
                 className="w-24 h-24 mx-auto rounded"
               />
@@ -182,10 +182,10 @@ export default function AboutPage() {
           Frequently Asked Questions
         </h2>
         {[
-          "What is the maximum & minimum loan limit on BheemLoan?",
+          "What is the maximum & minimum loan limit on KeshvaCredit?",
           "What is the most user-friendly instant loan app in India?",
           "Are instant loan apps safe?",
-          "What is the eligibility to apply for a loan on BheemLoan?",
+          "What is the eligibility to apply for a loan on KeshvaCredit?",
         ].map((faq, index) => (
           <details
             key={index}
@@ -198,7 +198,7 @@ export default function AboutPage() {
               </span>
             </summary>
             <p className="text-xs text-gray-600 mt-2 pt-2 border-t">
-              BheemLoan offers flexible limits from ₹10,000 up to ₹50 Lakhs
+              KeshvaCredit offers flexible limits from ₹10,000 up to ₹50 Lakhs
               depending on eligibility, income, and credit score with 100%
               digital verification.
             </p>

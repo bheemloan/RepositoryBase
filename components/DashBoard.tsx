@@ -379,7 +379,7 @@ export const DashBoard = (props: {}) => {
               Credit Score
             </h1>
             <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
-              Home, Personal, Business, Car, or Gold Loan — BheemLoan offers
+              Home, Personal, Business, Car, or Gold Loan — KeshvaCredit offers
               competitive rates, flexible tenures, and a 100% digital process.
               Trusted by millions across India.
             </p>
@@ -895,7 +895,7 @@ export const DashBoard = (props: {}) => {
                 Making Finance Simple for Every Indian
               </h2>
               <p className="text-slate-600 text-xs leading-relaxed mb-4">
-                Founded in 2020, BheemLoan is on a mission to democratise access
+                Founded in 2020, KeshvaCredit is on a mission to democratise access
                 to financial products across India. We connect millions of
                 borrowers with trusted lenders through our technology-driven
                 marketplace.

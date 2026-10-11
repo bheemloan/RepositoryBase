@@ -48,7 +48,7 @@ export default function TermsPage() {
             Terms & Conditions
           </h1>
           <p className="text-slate-300 text-sm sm:text-base max-w-2xl mx-auto leading-relaxed">
-            Please read these Terms carefully before using BheemLoan's platform
+            Please read these Terms carefully before using KeshvaCredit's platform
             and services. Your continued use constitutes acceptance.
           </p>
           <p className="text-[11px] text-slate-400 mt-3">
@@ -86,10 +86,10 @@ export default function TermsPage() {
             {/* Intro */}
             <p className="mb-4 text-sm text-slate-600 leading-relaxed">
               In consideration of BVALUE Services Private Limited (hereinafter
-              referred to as "BheemLoan", which expression shall include where
+              referred to as "KeshvaCredit", which expression shall include where
               appropriate its affiliates, successors and assigns), the user
               agrees to be bound by these Terms and Conditions as amended,
-              supplemented and or superseded by BheemLoan from time to time.
+              supplemented and or superseded by KeshvaCredit from time to time.
             </p>
 
             <p className="mb-4 text-sm text-slate-600 leading-relaxed">
@@ -164,12 +164,12 @@ export default function TermsPage() {
 
             <p className="mb-4 text-sm text-slate-600 leading-relaxed">
               These terms of use (hereinafter the "Terms") establish an
-              agreement between BheemLoan, having its principal place of
+              agreement between KeshvaCredit, having its principal place of
               business at 21st Cross, 7th Sector, HSR Layout, Bangalore –
-              560102, and you and shall govern your use of the BheemLoan
+              560102, and you and shall govern your use of the KeshvaCredit
               proprietary risk evaluation and measurement software system
-              ("BheemLoan System") and the services set out in these Terms
-              ("Service") rendered by BheemLoan.
+              ("KeshvaCredit System") and the services set out in these Terms
+              ("Service") rendered by KeshvaCredit.
             </p>
 
             <p className="mb-4 text-sm text-slate-600 leading-relaxed">
@@ -186,7 +186,7 @@ export default function TermsPage() {
             <p className="mb-4 text-sm text-slate-600 leading-relaxed">
               BVALUE Services Private Limited may, at its sole discretion, amend
               the Terms from time to time. Unless otherwise set out herein,
-              amendments will be effective upon BheemLoan's posting of such
+              amendments will be effective upon KeshvaCredit's posting of such
               updated Terms at this location or the amended policies or
               supplemental terms on the applicable Service(s). Your continued
               access or use of the Services after such posting constitutes your
@@ -201,7 +201,7 @@ export default function TermsPage() {
               1. ELIGIBILITY / CONDITION PRECEDENT
             </h2>
             <p className="mb-4 text-sm text-slate-600 leading-relaxed">
-              BheemLoan may grant or continue to grant the loan to the borrower
+              KeshvaCredit may grant or continue to grant the loan to the borrower
               if the following conditions are fulfilled or continued to be
               fulfilled. If you are an individual, you must be at least 18 years
               old. If you are a non-individual, you must be duly authorized (by
@@ -219,21 +219,21 @@ export default function TermsPage() {
               </li>
               <li className="leading-relaxed pl-1">
                 You must be a human being to enter into these Terms. Any use of
-                BheemLoan System by 'bots' or other automated tools or methods
+                KeshvaCredit System by 'bots' or other automated tools or methods
                 is not permitted under this Agreement.
               </li>
               <li className="leading-relaxed pl-1">
-                Your application form shall have been accepted by BheemLoan in
-                the manner as prescribed by BheemLoan.
+                Your application form shall have been accepted by KeshvaCredit in
+                the manner as prescribed by KeshvaCredit.
               </li>
               <li className="leading-relaxed pl-1">
                 All the required documents legal or otherwise as may be required
-                by BheemLoan, shall have been completed and signed to the
-                satisfaction of BheemLoan.
+                by KeshvaCredit, shall have been completed and signed to the
+                satisfaction of KeshvaCredit.
               </li>
               <li className="leading-relaxed pl-1">
                 All the primary and secondary evidence of the document as
-                demanded by BheemLoan must be duly furnished.
+                demanded by KeshvaCredit must be duly furnished.
               </li>
               <li className="leading-relaxed pl-1">
                 There shall exist no potential event for default and all
@@ -242,8 +242,8 @@ export default function TermsPage() {
                 true.
               </li>
               <li className="leading-relaxed pl-1">
-                All other conditions precedent as BheemLoan may require or
-                impose have been fulfilled to the satisfaction of BheemLoan or
+                All other conditions precedent as KeshvaCredit may require or
+                impose have been fulfilled to the satisfaction of KeshvaCredit or
                 otherwise have been duly compiled with.
               </li>
             </ul>
@@ -259,16 +259,16 @@ export default function TermsPage() {
               <li className="leading-relaxed pl-1">
                 Account registration requires you to submit certain information
                 such as your name, address, mobile phone number and age and any
-                unique identifier that may be issued to you by BheemLoan.
+                unique identifier that may be issued to you by KeshvaCredit.
               </li>
               <li className="leading-relaxed pl-1">
                 You agree that you have provided from start and maintained
                 accurate, complete, and up-to-date information in your Account.
                 Your failure to maintain accurate, complete, and up-to-date
                 Account information may result in your inability to access and
-                use BheemLoan Systems and/or the Services and/or the final
+                use KeshvaCredit Systems and/or the Services and/or the final
                 referral for banking or financial that you seek or result in
-                BheemLoan' termination of this agreement with you.
+                KeshvaCredit' termination of this agreement with you.
               </li>
               <li className="leading-relaxed pl-1">
                 Solely You are responsible for all activity that occurs under
@@ -276,16 +276,16 @@ export default function TermsPage() {
                 of your Account username and password at all times.
               </li>
               <li className="leading-relaxed pl-1">
-                Unless otherwise permitted by BheemLoan in writing, you shall
-                only use and operate one Account with BheemLoan. You acknowledge
+                Unless otherwise permitted by KeshvaCredit in writing, you shall
+                only use and operate one Account with KeshvaCredit. You acknowledge
                 and agree that any misuse of your Account for reasons not
-                attributable to BheemLoan shall be to your account and You will
+                attributable to KeshvaCredit shall be to your account and You will
                 be liable for any and all liabilities incurred as a result of
                 such misuse.
               </li>
               <li className="leading-relaxed pl-1">
                 You thus assent that any data put together by you for Account
-                set-up might be utilized by BheemLoan as per the security
+                set-up might be utilized by KeshvaCredit as per the security
                 approach distributed at{" "}
                 <Link
                   href="/Privacy-Policy"
@@ -306,41 +306,41 @@ export default function TermsPage() {
             </h2>
             <ul className="list-disc list-inside ml-4 mb-4 space-y-3 text-sm text-slate-600">
               <li className="leading-relaxed pl-1">
-                The Service establishes Your entrance to BheemLoan System, the
-                check of information you have given on the BheemLoan entryway
-                and assessment by BheemLoan of your credit worthiness, and
-                subject to BheemLoan determining (in its sole and absolute
+                The Service establishes Your entrance to KeshvaCredit System, the
+                check of information you have given on the KeshvaCredit entryway
+                and assessment by KeshvaCredit of your credit worthiness, and
+                subject to KeshvaCredit determining (in its sole and absolute
                 discretion) that it is appropriate, your ability to submit an
                 application ("Credit Facility Application") for short term
                 credit facility ("Advance") to a duly licensed entity who has
-                partnered with BheemLoan ("BheemLoan Partner") and use of such
-                other functionalities of BheemLoan System as permitted by
-                BheemLoan. For the avoidance of doubt, BheemLoan is under no
+                partnered with KeshvaCredit ("KeshvaCredit Partner") and use of such
+                other functionalities of KeshvaCredit System as permitted by
+                KeshvaCredit. For the avoidance of doubt, KeshvaCredit is under no
                 obligation whatsoever to reveal to you (including your nominees,
                 heirs and successors) its assessment of your creditworthiness at
                 any point in time.
               </li>
               <li className="leading-relaxed pl-1">
-                You acknowledge that BheemLoan allows You to submit a Credit
+                You acknowledge that KeshvaCredit allows You to submit a Credit
                 Facility Application on the basis of a determination made by and
-                in such formats, methodologies and algorithms in BheemLoan
+                in such formats, methodologies and algorithms in KeshvaCredit
                 Systems only.
               </li>
               <li className="leading-relaxed pl-1">
-                The BheemLoan Systems undertake a dynamic evaluation of risk in
+                The KeshvaCredit Systems undertake a dynamic evaluation of risk in
                 relation to each Credit Facility Application submitted by You
                 based on various factors including the amount of the Advance,
                 the credit eligibility parameters and other requirements set out
-                by the BheemLoan Partner. BheemLoan Systems may undertake a
+                by the KeshvaCredit Partner. KeshvaCredit Systems may undertake a
                 separate determination in relation to each Credit Facility
                 Application made by you. Given the dynamic nature of the
-                determination made by BheemLoan Systems, You acknowledge that
-                there is no assurance or guarantee that BheemLoan shall allow
+                determination made by KeshvaCredit Systems, You acknowledge that
+                there is no assurance or guarantee that KeshvaCredit shall allow
                 You to submit a Credit Facility Application for each and every
                 Advance that you seek to avail.
               </li>
               <li className="leading-relaxed pl-1">
-                You agree and accept that BheemLoan or a BheemLoan Partner may
+                You agree and accept that KeshvaCredit or a KeshvaCredit Partner may
                 in its sole discretion, by itself or through authorized persons,
                 advocate, agencies, bureau, etc. verify any information given,
                 check credit references, employment details, and obtain credit
@@ -348,46 +348,46 @@ export default function TermsPage() {
               </li>
               <li className="leading-relaxed pl-1">
                 The Service does not guarantee that the Advance sought by You
-                will be disbursed to You by the BheemLoan Partner. BheemLoan
+                will be disbursed to You by the KeshvaCredit Partner. KeshvaCredit
                 will make a preliminary determination of Your creditworthiness
                 in relation to every Advance sought by You and submit its
-                determination in this regard to the BheemLoan Partner. The final
+                determination in this regard to the KeshvaCredit Partner. The final
                 decision on whether or not to grant You the Advance will rest
-                with BheemLoan Partner and will be made using BheemLoan
-                Partner's credit decision processes and methodologies. BheemLoan
-                Partner is free to reject any recommendation made by BheemLoan
+                with KeshvaCredit Partner and will be made using KeshvaCredit
+                Partner's credit decision processes and methodologies. KeshvaCredit
+                Partner is free to reject any recommendation made by KeshvaCredit
                 to it about processing of a Credit Facility Application or grant
                 of Advance to You.
               </li>
               <li className="leading-relaxed pl-1">
-                BheemLoan Partner will require You to submit further
+                KeshvaCredit Partner will require You to submit further
                 documentation, information, and details as required under
                 applicable laws and its internal policies prior to taking any
-                decision about grant of Advance to You. When BheemLoan Partner
+                decision about grant of Advance to You. When KeshvaCredit Partner
                 decides to grant an Advance to You, it shall require that You
                 execute a loan/credit facility agreement ("Loan Documentation")
                 with it to record the terms of the arrangement.
               </li>
               <li className="leading-relaxed pl-1">
                 <strong>Repayment:</strong> You must repay the Advance along
-                with all interest, charges and fees payable to BheemLoan Partner
-                in such manner as prescribed by BheemLoan Partner as and when it
+                with all interest, charges and fees payable to KeshvaCredit Partner
+                in such manner as prescribed by KeshvaCredit Partner as and when it
                 becomes due.
                 <br />
-                Services of BheemLoan is only limited to connect you to the
-                credit providers and the Services of BheemLoan ends the moment
-                the BheemLoan Partner is connected to You / You are connected to
+                Services of KeshvaCredit is only limited to connect you to the
+                credit providers and the Services of KeshvaCredit ends the moment
+                the KeshvaCredit Partner is connected to You / You are connected to
                 the Credit provider.
               </li>
               <li className="leading-relaxed pl-1">
                 <strong>Separate Transactions:</strong> You acknowledge that an
                 Advance disbursed under the Loan Documentation is a distinct
-                transaction between You and BheemLoan Partner, independent of
-                BheemLoan' Service. Any dispute between BheemLoan Partner and
+                transaction between You and KeshvaCredit Partner, independent of
+                KeshvaCredit' Service. Any dispute between KeshvaCredit Partner and
                 you with respect to any Advance disbursed to You, must be
-                directly settled between BheemLoan Partner and you and that you
-                will not include or seek to include BheemLoan in such dispute,
-                failing which BheemLoan shall be at liberty to take any and all
+                directly settled between KeshvaCredit Partner and you and that you
+                will not include or seek to include KeshvaCredit in such dispute,
+                failing which KeshvaCredit shall be at liberty to take any and all
                 actions that may be available to it to protect its interests.
               </li>
               <li className="leading-relaxed pl-1">
@@ -398,7 +398,7 @@ export default function TermsPage() {
                 access or use the Services from a wireless-enabled device. You
                 are responsible for acquiring and updating compatible hardware
                 or devices necessary to access and use the Services and
-                BheemLoan Systems and any updates thereto. BheemLoan does not
+                KeshvaCredit Systems and any updates thereto. KeshvaCredit does not
                 guarantee that the Services, or any portion thereof, will
                 function on any particular hardware or devices. In addition, the
                 Services may be subject to malfunctions and delays inherent in
@@ -410,15 +410,15 @@ export default function TermsPage() {
               License
             </h3>
             <p className="mb-4 text-sm text-slate-600 leading-relaxed">
-              Subject to your compliance with these Terms, BheemLoan grants You
+              Subject to your compliance with these Terms, KeshvaCredit grants You
               a limited, non-exclusive, revocable, non-transferable license in
-              India to: (i) access and use the BheemLoan Systems through your PC
+              India to: (i) access and use the KeshvaCredit Systems through your PC
               Framework or other portable specialized gadget solely in
               connection with your use of the Services; and (ii) access and use
               any content, information, and related materials that may be made
               available through the Services, in each case solely for your
               personal, non-commercial use. Any rights not expressly granted
-              herein are reserved by BheemLoan and BheemLoan's licensors.
+              herein are reserved by KeshvaCredit and KeshvaCredit's licensors.
             </p>
 
             <h3 className="text-base font-bold text-[#0a1535] mt-6 mb-3">
@@ -459,7 +459,7 @@ export default function TermsPage() {
                 scraping, indexing, surveying, or otherwise data mining any
                 portion of the Services or unduly burdening or hindering the
                 operation and/or functionality of any aspect of the Services or
-                BheemLoan Systems or any other computer system including by
+                KeshvaCredit Systems or any other computer system including by
                 introduction of any virus, Trojan horses, worms, time bombs or
                 such material.
               </li>
@@ -516,7 +516,7 @@ export default function TermsPage() {
                 of any offence or is insulting any other nation.
               </li>
               <li className="leading-relaxed pl-1">
-                BheemLoan shall have the on-going right to monitor your use of
+                KeshvaCredit shall have the on-going right to monitor your use of
                 the Services to the extent required to determine your compliance
                 with the terms of these Terms.
               </li>
@@ -527,12 +527,12 @@ export default function TermsPage() {
             </h3>
             <p className="mb-4 text-sm text-slate-600 leading-relaxed">
               You understand that all User Generated Content, to the extent
-              permitted by the BheemLoan System, is the sole responsibility of
+              permitted by the KeshvaCredit System, is the sole responsibility of
               the person from whom such User Generated Content originated. This
-              means that you, and not BheemLoan is solely responsible for any
+              means that you, and not KeshvaCredit is solely responsible for any
               User Generated Content you upload, download, post, email,
               transmit, store or otherwise make available through your Use of
-              the Service. BheemLoan does not control the User Generated Content
+              the Service. KeshvaCredit does not control the User Generated Content
               used in the Service, nor does it guarantee the accuracy, integrity
               or quality of such User Generated Content. You understand and
               agree that your Use of the Service and any User Generated Content
@@ -557,9 +557,9 @@ export default function TermsPage() {
             <p className="mb-4 text-sm text-slate-600 leading-relaxed">
               You are responsible for backing up, to your own computer or other
               device, any important documents, images or other User Generated
-              Content that you store or access via the Service. BheemLoan shall
+              Content that you store or access via the Service. KeshvaCredit shall
               use reasonable skill and due care in providing the Service, but
-              BheemLoan does not guarantee or warrant that any User Generated
+              KeshvaCredit does not guarantee or warrant that any User Generated
               Content you may store or access through the Service will not be
               subject to inadvertent damage, corruption or loss.
             </p>
@@ -576,31 +576,31 @@ export default function TermsPage() {
                 You understand and acknowledge that certain risks are inherent
                 in the transmission of information over the internet. By
                 entering in to this agreement You have chosen to use the
-                security measures provided by BheemLoan even though other
-                security measures are available. While BheemLoan uses industry
+                security measures provided by KeshvaCredit even though other
+                security measures are available. While KeshvaCredit uses industry
                 standard information security measures to protect the Service
-                from viruses and malicious attacks, BheemLoan does not represent
+                from viruses and malicious attacks, KeshvaCredit does not represent
                 or guarantee that the Service will be free from loss,
                 corruption, attack, viruses, interference, hacking, or other
-                security intrusion and BheemLoan disclaims any liability
+                security intrusion and KeshvaCredit disclaims any liability
                 relating thereto to the extent that such loss, corruption,
                 attack, viruses, interference, hacking, or other security
-                intrusion occur despite BheemLoan using the information security
-                measures. BheemLoan warrants that, during the term of this
-                agreement, BheemLoan will employ commercially reasonable system
+                intrusion occur despite KeshvaCredit using the information security
+                measures. KeshvaCredit warrants that, during the term of this
+                agreement, KeshvaCredit will employ commercially reasonable system
                 security measures. Except as expressly set forth in this
-                section, BheemLoan makes no representation, warranty, covenant
+                section, KeshvaCredit makes no representation, warranty, covenant
                 or agreement that its security measures will be effective and
-                neither BheemLoan nor its affiliates shall have any liability
+                neither KeshvaCredit nor its affiliates shall have any liability
                 for the breach of its security measures, or the integrity of the
-                systems or BheemLoan' computer servers, unless caused by the
+                systems or KeshvaCredit' computer servers, unless caused by the
                 wilful misconduct or gross negligence of its employees.
               </li>
               <li className="leading-relaxed pl-1">
                 The Services are provided to you on an "as-is" and "as available
-                basis". BheemLoan is not responsible for any failure of the
+                basis". KeshvaCredit is not responsible for any failure of the
                 telecommunications network or other communications links
-                utilised to gain access to the Services. BheemLoan does not
+                utilised to gain access to the Services. KeshvaCredit does not
                 represent that the Services will meet your requirements or that
                 operation of the Services will be uninterrupted or error free.
               </li>
@@ -612,16 +612,16 @@ export default function TermsPage() {
                 personal injury, or severe physical or environmental damage.
               </li>
               <li className="leading-relaxed pl-1">
-                BheemLoan and its affiliates, subsidiaries, officers, directors,
+                KeshvaCredit and its affiliates, subsidiaries, officers, directors,
                 employees, agents, partners and licensors hereby disclaims and
                 expressly waives all other, conditions, representations and
                 guarantees, whether express or implied, arising by law, custom,
-                oral or written statements of BheemLoan or third parties
+                oral or written statements of KeshvaCredit or third parties
                 including, but not limited to, any warranty of merchantability
                 or fitness for particular purpose or of error-free and
                 uninterrupted use or of non-infringement except to the extent
                 expressly provided above (limited warranty). In particular,
-                BheemLoan and its affiliates, subsidiaries, officers, directors,
+                KeshvaCredit and its affiliates, subsidiaries, officers, directors,
                 employees, agents, partners and licensors make no warranty that
                 (i) the service will meet your requirements. (ii) your use of
                 the service will be timely, uninterrupted, secure or error-free.
@@ -636,7 +636,7 @@ export default function TermsPage() {
               5. CONFIDENTIAL INFORMATION
             </h2>
             <p className="mb-4 text-sm text-slate-600 leading-relaxed">
-              In the course of your dealings with BheemLoan, either party may
+              In the course of your dealings with KeshvaCredit, either party may
               share and provide the other with access to its confidential and
               proprietary information ("Confidential Information"). Confidential
               Information may be disclosed either orally, visually, in writing
@@ -668,7 +668,7 @@ export default function TermsPage() {
             </h2>
             <div className="bg-rose-50 border-l-4 border-rose-500 rounded-r-lg p-4 my-4">
               <p className="text-xs text-slate-700 leading-relaxed uppercase font-medium">
-                In no event shall BheemLoan be liable, whether in contract, tort
+                In no event shall KeshvaCredit be liable, whether in contract, tort
                 (including negligence) or otherwise for any loss of profits,
                 business, contracts, or revenues, loss of operation time,
                 increased costs or wasted expenditure, loss of goodwill or
@@ -686,11 +686,11 @@ export default function TermsPage() {
               7. INDEMNITY
             </h2>
             <p className="mb-4 text-sm text-slate-600 leading-relaxed">
-              You shall defend, indemnify and hold harmless BheemLoan, its
+              You shall defend, indemnify and hold harmless KeshvaCredit, its
               officers, directors, employees and agents, from and against any
               and all claims, damages, obligations, losses, liabilities, debts
               and costs (including reasonable attorneys' fees), brought against
-              BheemLoan by third parties alleging that:
+              KeshvaCredit by third parties alleging that:
             </p>
             <ul className="list-disc list-inside ml-4 mb-4 space-y-2 text-sm text-slate-600">
               <li className="leading-relaxed pl-1">
@@ -702,11 +702,11 @@ export default function TermsPage() {
               <li className="leading-relaxed pl-1">
                 Your violation of any third party right, including without
                 limitation any copyright, property, or privacy right of
-                BheemLoan' service providers or Partner.
+                KeshvaCredit' service providers or Partner.
               </li>
               <li className="leading-relaxed pl-1">
                 Any claim that the User Generated Content you submitted caused
-                damage to BheemLoan or BheemLoan' Partner.
+                damage to KeshvaCredit or KeshvaCredit' Partner.
               </li>
               <li className="leading-relaxed pl-1">
                 Any rules that are mandated by the central bank of India and any
@@ -727,14 +727,14 @@ export default function TermsPage() {
             <p className="mb-4 text-sm text-slate-600 leading-relaxed">
               You understand that by using the Service, you consent and agree to
               the collection and use of certain information about You and your
-              Use of the Service in accordance with BheemLoan'{" "}
+              Use of the Service in accordance with KeshvaCredit'{" "}
               <Link
                 href="/privacy-policy"
                 className="text-blue-600 underline hover:text-blue-800"
               >
                 Privacy Policy
               </Link>{" "}
-              and these Terms. BheemLoan' Privacy Policy applies to all Your
+              and these Terms. KeshvaCredit' Privacy Policy applies to all Your
               information collected under these Terms.
             </p>
 
@@ -747,7 +747,7 @@ export default function TermsPage() {
             </h2>
             <p className="mb-4 text-sm text-slate-600 leading-relaxed">
               You shall not assign this Agreement [without the prior written
-              consent of BheemLoan].
+              consent of KeshvaCredit].
             </p>
 
             {/* ============ SECTION 10 ============ */}
@@ -804,10 +804,10 @@ export default function TermsPage() {
                   <br />
                   Email:{" "}
                   <a
-                    href="mailto:info@bheemloan.com"
+                    href="mailto:info@KeshvaCredit.com"
                     className="text-blue-600 underline hover:text-blue-800"
                   >
-                    info@bheemloan.com
+                    info@KeshvaCredit.com
                   </a>
                 </div>
               </li>
@@ -853,7 +853,7 @@ export default function TermsPage() {
               14. FORCE MAJEURE
             </h2>
             <p className="mb-4 text-sm text-slate-600 leading-relaxed">
-              BheemLoan will not be liable to the other for failure or delay in
+              KeshvaCredit will not be liable to the other for failure or delay in
               the performance of Services, if such delay or failure is caused by
               strike, riot, fire, flood, natural disaster, or other similar
               cause beyond its control.
@@ -872,7 +872,7 @@ export default function TermsPage() {
             </p>
             <ul className="list-disc list-inside ml-4 mb-4 space-y-3 text-sm text-slate-600">
               <li className="leading-relaxed pl-1">
-                <strong>Bheem Marketplace -</strong> Bheem Marketplace is an
+                <strong>Keshva Marketplace -</strong> Keshva Marketplace is an
                 electronic platform which acts as a communication bridge to
                 connect our users with the sellers on the interested products
                 promoted in the App. Bvalue Services Private Limited will not
@@ -883,25 +883,25 @@ export default function TermsPage() {
                 party in connection with such transactions.
               </li>
               <li className="leading-relaxed pl-1">
-                <strong>Bheem Club -</strong> Bheem Club is an add-on feature to
-                the BheemLoan users to participate in exclusive offers promoted
+                <strong>Keshva Club -</strong> Keshva Club is an add-on feature to
+                the KeshvaCredit users to participate in exclusive offers promoted
                 by partnered clients or affiliates. Bvalue Services Pvt. Ltd.
                 Will not directly sell nor any of this products, only list the
                 top offers to its app users.
               </li>
               <li className="leading-relaxed pl-1">
-                <strong>Bheem Trade -</strong> This is also an exclusive service
-                offered to BheemLoan users to get connected with the best
-                trading app which is signed as a partner with BheemLoan. Any
+                <strong>Keshva Trade -</strong> This is also an exclusive service
+                offered to KeshvaCredit users to get connected with the best
+                trading app which is signed as a partner with KeshvaCredit. Any
                 interested user will be directed to the trading app partner on
                 real time to get the exiting offers.
               </li>
               <li className="leading-relaxed pl-1">
-                <strong>Bheem Rewards</strong> is a feature offered by Bvalue
-                Services Pvt. Ltd. to its BheemLoan users. A user of BheemLoan
-                will be gratified with Rs. 50 when he/she refers the BheemLoan
+                <strong>Keshva Rewards</strong> is a feature offered by Bvalue
+                Services Pvt. Ltd. to its KeshvaCredit users. A user of KeshvaCredit
+                will be gratified with Rs. 50 when he/she refers the KeshvaCredit
                 app to someone and the referral signs up & applies for a
-                personal loan through BheemLoan. The user can take the amount to
+                personal loan through KeshvaCredit. The user can take the amount to
                 their own Bank Account via NEFT or UPI. This is a promotional
                 activity done by Bvalue Services Private Limited and has all the
                 rights to Suspend, Discontinue the Promotion with its sole
@@ -917,7 +917,7 @@ export default function TermsPage() {
               16. CREDIT CARD & OTHER FINANCIAL SERVICES
             </h2>
             <p className="mb-4 text-sm text-slate-600 leading-relaxed">
-              The user acknowledges and agrees that BheemLoan being a Digital
+              The user acknowledges and agrees that KeshvaCredit being a Digital
               Fintech Marketplace, will have the right to pass the leads of the
               interested users to partnered brands associated with{" "}
               <Link
@@ -952,23 +952,23 @@ export default function TermsPage() {
             </h2>
             <p className="mb-4 text-sm text-slate-600 leading-relaxed">
               These Terms along with any supplementary terms or appendage as may
-              be prescribed by Bheem / BheemLoan Partner constitute the entire
+              be prescribed by Keshva / KeshvaCredit Partner constitute the entire
               agreement between the parties pertaining to the subject matter
               contained herein and any addition to this or any other written or
               oral agreements existing between the parties or modifications to
               these terms shall have no force or effect unless expressly agreed
-              to in writing or acknowledged in writing by Bheem.
+              to in writing or acknowledged in writing by Keshva.
             </p>
             <p className="mb-4 text-sm text-slate-600 leading-relaxed">
-              BheemLoan is solving the fundamental problem of providing to the
+              KeshvaCredit is solving the fundamental problem of providing to the
               fingertips a quick, convenient and transparent access to credit in
               India.
             </p>
             <p className="mb-4 text-sm text-slate-600 leading-relaxed">
               Any modifications to these terms and conditions shall be updated
-              on this page of BheemLoan with the date of update, you shall be
+              on this page of KeshvaCredit with the date of update, you shall be
               required to visit the Terms and Conditions and acquaint yourself
-              with the Terms and Conditions from time to time and BheemLoan
+              with the Terms and Conditions from time to time and KeshvaCredit
               shall not be liable to intimate you upon any update or
               modification of hereunder.
             </p>

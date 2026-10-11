@@ -6,8 +6,8 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "BheemLoan - Quick Loans & Credit Score",
-  description: "Get instant loans and free credit score check on BheemLoan.",
+  title: "KeshvaCredit - Quick Loans & Credit Score",
+  description: "Get instant loans and free credit score check on KeshvaCredit.",
 };
 
 export default function RootLayout({

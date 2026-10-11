@@ -73,7 +73,7 @@ export default function ContactPage() {
     {
       icon: "✉️",
       title: "Email Us",
-      value: "support@bheemloan.com",
+      value: "support@KeshvaCredit.com",
       sub: "We reply within 24 hours",
       color: "from-emerald-500 to-emerald-700",
     },
@@ -531,7 +531,7 @@ export default function ContactPage() {
               {/* Map */}
               <div className="bg-white rounded-2xl overflow-hidden shadow-sm border border-slate-200 h-[280px]">
                 <iframe
-                  title="BheemLoan Office Location"
+                  title="KeshvaCredit Office Location"
                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.8865158297165!2d77.6396!3d12.9121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTLCsDU0JzQzLjYiTiA3N8KwMzgnMjIuNiJF!5e0!3m2!1sen!2sin!4v1700000000000"
                   width="100%"
                   height="100%"
@@ -550,7 +550,7 @@ export default function ContactPage() {
                     Head Office
                   </span>
                   <h3 className="font-bold text-lg mt-1 mb-3">
-                    BheemLoan Services Pvt. Ltd.
+                    KeshvaCredit Services Pvt. Ltd.
                   </h3>
                   <div className="space-y-3 text-xs">
                     <div className="flex items-start gap-2.5">
@@ -569,7 +569,7 @@ export default function ContactPage() {
                       <span className="w-7 h-7 rounded-lg bg-white/10 flex items-center justify-center flex-shrink-0">
                         ✉️
                       </span>
-                      <p className="text-slate-300">info@bheemloan.com</p>
+                      <p className="text-slate-300">info@KeshvaCredit.com</p>
                     </div>
                     <div className="flex items-center gap-2.5">
                       <span className="w-7 h-7 rounded-lg bg-white/10 flex items-center justify-center flex-shrink-0">

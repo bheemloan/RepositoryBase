@@ -21,11 +21,11 @@ const loanTypes = [
 const resources = [
   { name: "Privacy Policy", href: "/Privacy-Policy" },
   { name: "Terms & Conditions", href: "/terms" },
-  { name: "Bheem Score", href: "/bheem-score" },
-  { name: "Bheem Calculator", href: "/calculators" },
+  { name: "Keshva Score", href: "/Keshva-score" },
+  { name: "Keshva Calculator", href: "/calculators" },
   { name: "Quick Loans", href: "/quick-loans" },
-  { name: "Bheem Games", href: "/games" },
-  { name: "Bheem Card", href: "/card" },
+  { name: "Keshva Games", href: "/games" },
+  { name: "Keshva Card", href: "/card" },
   { name: "Gold Rate Today", href: "/gold-rate" },
   { name: "Our Business Partners", href: "/partners" },
   { name: "Statutory Disclosure", href: "/statutory-disclosure" },
@@ -36,7 +36,7 @@ const company = [
   { name: "About Us", href: "/about" },
   { name: "Contact Us", href: "/Contact" },
   { name: "Features", href: "/features" },
-  { name: "BheemLoan App", href: "/app" },
+  { name: "KeshvaCredit App", href: "/app" },
   { name: "Testimonials", href: "/testimonials" },
   { name: "Blog", href: "/blog" },
   { name: "Sitemap", href: "/sitemap" },
@@ -46,15 +46,15 @@ const company = [
 ];
 
 const socials = [
-  { label: "X", href: "https://twitter.com/bheemloan", title: "Twitter" },
+  { label: "X", href: "https://twitter.com/KeshvaCredit", title: "Twitter" },
   {
     label: "in",
-    href: "https://linkedin.com/company/bheemloan",
+    href: "https://linkedin.com/company/KeshvaCredit",
     title: "LinkedIn",
   },
-  { label: "f", href: "https://facebook.com/bheemloan", title: "Facebook" },
-  { label: "ig", href: "https://instagram.com/bheemloan", title: "Instagram" },
-  { label: "yt", href: "https://youtube.com/@bheemloan", title: "YouTube" },
+  { label: "f", href: "https://facebook.com/KeshvaCredit", title: "Facebook" },
+  { label: "ig", href: "https://instagram.com/KeshvaCredit", title: "Instagram" },
+  { label: "yt", href: "https://youtube.com/@KeshvaCredit", title: "YouTube" },
 ];
 
 export default function Footer() {
@@ -66,11 +66,11 @@ export default function Footer() {
         {/* ============ Column 1: Brand Info & Socials ============ */}
         <div className="space-y-4">
           <Link href="/" className="inline-block text-2xl font-bold">
-            <span className="text-white">Bheem</span>
+            <span className="text-white">Keshva</span>
             <span className="text-sky-400">Loan</span>
           </Link>
           <p className="text-xs text-gray-400 leading-relaxed">
-            With the highest loan approval rate in the industry, BheemLoan
+            With the highest loan approval rate in the industry, KeshvaCredit
             offers a solution to each of your financial nuance at your
             fingertip.
           </p>
@@ -136,10 +136,10 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-semibold text-xs">Reach Us</h4>
             <a
-              href="mailto:info@bheemloan.com"
+              href="mailto:info@KeshvaCredit.com"
               className="text-xs text-sky-400 hover:underline"
             >
-              info@bheemloan.com
+              info@KeshvaCredit.com
             </a>
           </div>
 
@@ -171,7 +171,7 @@ export default function Footer() {
 
       {/* ============ Bottom Copyright Strip ============ */}
       <div className="mt-12 pt-4 border-t border-gray-800/80 text-center text-xs text-gray-500">
-        CIN No: U74300KA2019PTC127853 | © {new Date().getFullYear()} BheemLoan
+        CIN No: U74300KA2019PTC127853 | © {new Date().getFullYear()} KeshvaCredit
         Services Pvt. Ltd. All Rights Reserved.
       </div>
     </footer>

@@ -16,7 +16,7 @@ export default function Navbar() {
           href="/"
           className="flex items-center text-2xl font-bold tracking-wide"
         >
-          <span className="text-white">Bheem</span>
+          <span className="text-white">Keshva</span>
           <span className="text-sky-400">Loan</span>
         </Link>
 
