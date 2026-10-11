@@ -6,7 +6,6 @@ export const AppDownloadPopup = () => {
   const [visible, setVisible] = useState(false);
   const [dismissed, setDismissed] = useState(false);
 
-  // Scroll 200px ke baad banner show
   useEffect(() => {
     if (dismissed) return;
 
